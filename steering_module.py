@@ -1,4 +1,4 @@
-##version2
+##version3
 import RPi.GPIO as GPIO
 import threading
 from time import sleep
